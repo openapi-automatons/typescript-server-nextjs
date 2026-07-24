@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.1...v1.0.2) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.1 ([#2](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/2)) ([b4975b7](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/b4975b7450ccb941c3f09edf30e56263866610cd))
+
 ## [1.0.1](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.0...v1.0.1) (2026-07-24)
 
 
