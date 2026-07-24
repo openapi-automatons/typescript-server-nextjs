@@ -1,0 +1,1 @@
+ignores: ["@types/*", "@commitlint/*", "@semantic-release/*", "semantic-release", "husky", "lint-staged", "eslint-config-prettier", "typescript", "@vitest/coverage-v8", "next"]
