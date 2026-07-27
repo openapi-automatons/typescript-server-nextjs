@@ -38,7 +38,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/parser": "^1.2.50",
+    "@automatons/parser": "^1.2.51",
     "@automatons/tools": "^2.2.0",
     "prettier": "^3.8.3",
     "ts-morph": "^28.0.0"
