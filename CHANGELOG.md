@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.6...v1.0.7) (2026-07-29)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/parser from 1.2.52 to 1.2.53 ([#13](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/13)) ([8eb1fc5](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/8eb1fc5ddec60a519a2bf3cd698c721849296725))
+
 ## [1.0.6](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.5...v1.0.6) (2026-07-29)
 
 
