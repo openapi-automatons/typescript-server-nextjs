@@ -1,3 +1,11 @@
+## [1.0.13](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.12...v1.0.13) (2026-08-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.2 to 26.2.0 ([#22](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/22)) ([587297b](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/587297be81283db1a016ce470d33a3dc0abb5fd3))
+* **deps-dev:** bump eslint from 10.8.0 to 10.8.1 ([#23](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/23)) ([12dd573](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/12dd57366a034b244ffd9b878e004604ff2832de))
+
 ## [1.0.12](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.11...v1.0.12) (2026-08-10)
 
 
