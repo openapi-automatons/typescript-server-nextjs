@@ -48,7 +48,7 @@
     "openapi-automatons": "^2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.0.2",
+    "@commitlint/cli": "^21.2.2",
     "@commitlint/config-conventional": "^21.0.2",
     "@eslint/js": "^10.0.1",
     "@semantic-release/changelog": "^7.0.0",
@@ -60,7 +60,7 @@
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
     "lint-staged": "^17.3.0",
-    "next": "^16.3.0",
+    "next": "^16.3.1",
     "semantic-release": "^25.0.9",
     "tsup": "^8.5.0",
     "typescript": "^6.0.3",
