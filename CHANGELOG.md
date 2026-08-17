@@ -1,3 +1,12 @@
+## [1.0.16](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.15...v1.0.16) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#29](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/29)) ([03795c9](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/03795c9bc67da772f03c2261c678669821a1b1c6))
+* **deps-dev:** bump next from 16.3.0 to 16.3.1 ([#30](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/30)) ([d97cabd](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/d97cabd8e00711d4f45a45ca85a15dfe975e19cb))
+* **deps:** bump @[secure]/parser from 1.2.60 to 1.2.61 ([#31](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/31)) ([4177ef7](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/4177ef724dd6b9f027ae64c978a738ca1335e424))
+
 ## [1.0.15](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.14...v1.0.15) (2026-08-14)
 
 
