@@ -38,20 +38,20 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.61":
-  version "1.2.61"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.61.tgz#14fbc93f275d14584c6e00427d36664a8c45ad6d"
-  integrity sha512-vfIgSOgMnYB5pgvzajpleXDHaFlFhEi0enR3MV84v/+N1BXWHujIs34vCXX0JFrsELj5ybkLp4RpyxfO87sX1w==
+"@automatons/parser@^1.2.63":
+  version "1.2.63"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.63.tgz#5937fab4730f594bde9ddfead04f60e38e8b1b00"
+  integrity sha512-D91kbiUIhWTRtII2CeZRzClFUvLCljtZDd1DL73av0kFFj5JYmQS9u+plRs7p1nkMeDhxOuHtsY3zicPF12FRg==
   dependencies:
-    "@automatons/tools" "^2.2.40"
+    "@automatons/tools" "^2.2.42"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.40":
-  version "2.2.42"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.42.tgz#7fc7dd6aaa513bd6f68f28216ea9ff43321b8699"
-  integrity sha512-ha8sL1l7j518/UuNCRa2q0gbcqM9brfz73EV1fJ4dIQY+3V2EU1A735DVpYP9KVoO6Mz3GxKbwu+NhKl1XAYXg==
+"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.42":
+  version "2.2.44"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.44.tgz#8b255d2152b601dbdad5085041802df35ccaba1c"
+  integrity sha512-5kmm72BndwgK7ZEURuvWRTgU3hETga/1J2n0dCP4IyHkxz5ug/onw7ffx8g/esB4LhEbaXmtGju7rQ1wW96fLw==
   dependencies:
-    js-yaml "^5.2.3"
+    js-yaml "^5.3.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
   version "7.29.7"
@@ -3476,10 +3476,10 @@ js-yaml@^4.1.0:
   dependencies:
     argparse "^2.0.1"
 
-js-yaml@^5.2.3:
-  version "5.2.3"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.2.3.tgz#0942ae8f507e22eb0e54624871789cd477106e54"
-  integrity sha512-n+mUVyUX5bVv7G/G2zyIHOhdxfuU1dY2NOFzTQUWiMUbFss8b57NFlgCCaggU78wSw5KVS9cllzeLyzyR+n5nw==
+js-yaml@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.3.0.tgz#526430a6da31065127528ae695ce168cfc5f91f0"
+  integrity sha512-muutsYr+e2+d3rTgUGslq5rxbBlUy3cJ61IsHag2QNDQV+7zXWjkUpmALIajhrlLlrgRUiymj6U3zUr/TMK84Q==
   dependencies:
     argparse "^2.0.1"
 
