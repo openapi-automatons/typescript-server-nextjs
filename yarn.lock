@@ -38,15 +38,15 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.65":
-  version "1.2.65"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.65.tgz#d9e0c2dfd9f391e6c64bcd9d497b2e51095a1bfa"
-  integrity sha512-h5oH+B3I+4uBRFocQYgCtZYudVIpGfp/keWpLZF+II8ksmzXnAwWKpJE4rhgxtDHDN2PlaqAnA5RRYcEl5qQUw==
+"@automatons/parser@^1.2.66":
+  version "1.2.66"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.66.tgz#f551001e07e9a852a8d86820a1aea7dd922e2783"
+  integrity sha512-dIUZeU5sLmdqgIMt0bx4MEqQFa16082RTfwWKKkq92KnuZdt5qUneii2fS/fZmrId+9OY/rBjVB5LeXTuWF6dw==
   dependencies:
-    "@automatons/tools" "^2.2.44"
+    "@automatons/tools" "^2.2.45"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.44", "@automatons/tools@^2.2.45":
+"@automatons/tools@^2.2.45":
   version "2.2.45"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.45.tgz#a60a276054e9ccbe95f0045f82c30b6004853e05"
   integrity sha512-C0YKck/TVfeMuA0n3H6C1Z8V1wjnXCv8wRuqdnceaop7CIlof8cLLBJX2N2mYEDLvuyMu5REnyQ2+Z2nAXST5w==
@@ -1564,10 +1564,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz#1001cc5e6a3704b83c236027e77f2f58ea010f40"
   integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
-"@types/node@^26.3.0":
-  version "26.3.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.3.0.tgz#757c33b17fe06db5a356582e9658603a1bd80caf"
-  integrity sha512-L3fgrnchriRC2ExBflb8j4uZZURHZfQsmQeyVzhjcHW4kkwVyo8/0h1B2MVzMTrYUJYu6G7EWs14hW/L9putqw==
+"@types/node@^26.4.0":
+  version "26.4.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.4.0.tgz#4c4ca071c42241fe602741d02999f16b4e64c468"
+  integrity sha512-faiGnoIrLH/V8cibOMEAZ8pMw6oXqSukl29ra4mN8GdaB2ZewzeaLj+INpV5N+Z1eKWzY+IzaIZH2EIR6YZRNQ==
   dependencies:
     undici-types "~8.3.0"
 
