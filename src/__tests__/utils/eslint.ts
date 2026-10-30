@@ -15,7 +15,7 @@ export const eslint = () => {
   writeFileSync('tmp/eslint.config.mjs', config, {encoding: 'utf-8'});
 
   return new Promise((resolve, reject) =>
-    exec("node_modules/.bin/eslint tmp --no-config-lookup --config tmp/eslint.config.mjs", (error, stdout, stderr) => {
+    exec("yarn eslint tmp --no-config-lookup --config tmp/eslint.config.mjs", (error, stdout, stderr) => {
       if (error) {
         console.error(stdout);
         return reject(error);

@@ -4,7 +4,7 @@ import {writeFileSync} from "node:fs";
 export const tsc = () => {
   writeFileSync('tmp/tsconfig.json', JSON.stringify(tsconfig), {encoding: 'utf-8'});
   return new Promise((resolve, reject) =>
-    exec("node_modules/.bin/tsc --project tmp/tsconfig.json", (error, stdout, stderr) => {
+    exec("yarn tsc --project tmp/tsconfig.json", (error, stdout, stderr) => {
       if (error) {
         console.error(stdout);
         return reject(error);
