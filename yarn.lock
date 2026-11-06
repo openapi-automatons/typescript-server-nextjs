@@ -38,10 +38,10 @@
     "@automatons/tools" "^2.2.50"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.50":
-  version "2.2.50"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.50.tgz#58a46767cd0a65fc2edd879b9e16386b3b4123cf"
-  integrity sha512-lhOtIyJMRMK5ASyw8ZGcHPPrldbfCidc6+JGhr5+Bazl3LdJCN2qD465Gd4fyApsFRX1MNj6hFrwmbDDeQrvKQ==
+"@automatons/tools@^2.2.50", "@automatons/tools@^2.2.52":
+  version "2.2.52"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.52.tgz#c372b27b5bad777db2ae8e226064a7d349916e2d"
+  integrity sha512-4od//kKTMQn4VHSBH6id/LcKwzsPW3L9mBrn3IRXaOcerWWGLAHNMfHnF+l/C/vgHXiwRSgyOnHgieZfYgeA3w==
   dependencies:
     js-yaml "^5.5.0"
 
