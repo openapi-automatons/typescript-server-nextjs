@@ -30,10 +30,10 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-3.0.2.tgz#6f89b27a159d109836d983efa283997c23b92284"
   integrity sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==
 
-"@automatons/parser@^1.2.74":
-  version "1.2.74"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.74.tgz#c18e0121665051a3c197f1f53865d4cee2f137f1"
-  integrity sha512-X1IyS5g6Q6JsFeTc4Zln9st8/8syY9PrHy7UMlsDuh143jZXoST0SDOm0wVWL3BmpCGXVWe7DeXIALknVbGkvw==
+"@automatons/parser@^1.2.76":
+  version "1.2.76"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.76.tgz#8c4dc1136f5705ed828f25603dde47919ba430e1"
+  integrity sha512-Ob0Vtf1II2LZRRbSLS9HDEKjvB2lgvRHI+4uzCGUZH9L1hJAXni0oDhHC/YFQlCSZqtNj2n1isLE7RgMMUrwJQ==
   dependencies:
     "@automatons/tools" "^2.2.50"
     change-case "^5.4.4"
