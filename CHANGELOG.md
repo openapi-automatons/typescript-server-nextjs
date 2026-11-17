@@ -1,3 +1,10 @@
+## [1.0.38](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.37...v1.0.38) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.14.0 to 10.15.0 ([#113](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/113)) ([b1493d8](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/b1493d8f83a1750fb70c7a7c1b9aecd43bd88c01))
+
 ## [1.0.37](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.36...v1.0.37) (2026-11-16)
 
 
