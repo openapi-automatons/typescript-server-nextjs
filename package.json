@@ -61,7 +61,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.6.1",
     "next": "^16.4.6",
-    "semantic-release": "^25.0.9",
+    "semantic-release": "^26.0.1",
     "tsup": "^9.0.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.72.2",
